@@ -1090,6 +1090,7 @@
 
 .container1.layout {
   position: relative;
+  padding: 10px 0 10px 0;
   flex-grow: 1;
 }
 
